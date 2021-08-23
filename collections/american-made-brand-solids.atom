@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/american-made-brand-solids.atom"/>
+  <title>Quiltex</title>
+  <updated>2020-06-08T15:09:40-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/4653627834457</id>
+    <published>2020-06-08T15:09:40-04:00</published>
+    <updated>2020-06-08T15:09:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/amb-90-blue"/>
+    <title>AMB-90 Blue</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/AmericanMadeBrand-_5.jpg?v=1591643388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.40
+            <a href="https://quiltex.ca/products/amb-90-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4653627834457</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.40</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4653627834457</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4648166621273</id>
+    <published>2020-06-02T12:08:20-04:00</published>
+    <updated>2020-06-02T12:08:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/amb-40-dk-coral"/>
+    <title>AMB-40 Dk Coral</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-40_sml.jpg?v=1591114128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/amb-40-dk-coral">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4648166621273</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4648166621273</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4648166031449</id>
+    <published>2020-06-02T12:06:32-04:00</published>
+    <updated>2020-06-02T12:06:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/amb-124-pool"/>
+    <title>AMB-124 Pool</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-124_3085384b-09db-404f-8ac7-21a6fc8a6a61.jpg?v=1591114026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/amb-124-pool">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4648166031449</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4648166031449</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4648165146713</id>
+    <published>2020-06-02T12:04:44-04:00</published>
+    <updated>2020-06-02T12:04:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/amb-77-fuschia"/>
+    <title>AMB-77 Fuschia</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-77_1.jpg?v=1591113925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.40
+            <a href="https://quiltex.ca/products/amb-77-fuschia">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4648165146713</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.40</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4648165146713</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4648163967065</id>
+    <published>2020-06-02T12:02:45-04:00</published>
+    <updated>2020-06-02T12:02:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/amb-74-raspberry"/>
+    <title>AMB-74 Raspberry</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-74_sml.jpg?v=1591113867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.40
+            <a href="https://quiltex.ca/products/amb-74-raspberry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4648163967065</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.40</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4648163967065</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4648162754649</id>
+    <published>2020-06-02T12:00:08-04:00</published>
+    <updated>2020-06-02T12:00:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/amb-122-dk-orchid"/>
+    <title>AMB-122 Dk Orchid</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/AmericanMadeBrand-24384.jpg?v=1591113696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/amb-122-dk-orchid">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4648162754649</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4648162754649</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4648161902681</id>
+    <published>2020-06-02T11:58:23-04:00</published>
+    <updated>2020-06-02T11:58:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/amb-75-dk-raspberry"/>
+    <title>AMB-75 Dk Raspberry</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/AmericanMadeBrand-_1.jpg?v=1591113512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.40
+            <a href="https://quiltex.ca/products/amb-75-dk-raspberry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4648161902681</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.40</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4648161902681</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1418658906167</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-191"/>
+    <title>AMB-192 PFP</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-pfp.jpg?v=1565739694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/copy-of-amb-191">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand <span>Prepared for Printing</span> for Clothworks</p>
+<p>Fabric is treated to allow dye to saturate fibers</p>
+<p>100% Cotton </p>
+<p>45" Wide</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418658906167</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418658906167</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1418658676791</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-190"/>
+    <title>AMB-191 PFD</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-pfd_1.jpg?v=1540310097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/copy-of-amb-190">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Prepared for Dyeing by Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418658676791</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418658676791</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1418658250807</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-3"/>
+    <title>AMB-190 Muslin</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-muslin_1.jpg?v=1540310038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/copy-of-amb-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Muslin for Clothworks</p>
+<p>Unbleached with occasional tiny flecks throughout the weave</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418658250807</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418658250807</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1418658119735</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-7"/>
+    <title>AMB-3 Black</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-03.jpg?v=1540309958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/copy-of-amb-7">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;" mce-data-marked="1"><strong>BACK IN STOCK!</strong></span></p>
+<p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p>
+<p>45" Wide</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418658119735</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418658119735</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1418657955895</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-6"/>
+    <title>AMB-7 Dk Grey</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-07.jpg?v=1540309915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.40
+            <a href="https://quiltex.ca/products/copy-of-amb-6">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418657955895</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.40</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418657955895</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1418657759287</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-5"/>
+    <title>AMB-6 Grey</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-6.jpg?v=1540309863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.40
+            <a href="https://quiltex.ca/products/copy-of-amb-5">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>TEMPORARILY OUT OF STOCK - ETA Mid-June 2020</strong></span></p>
+<p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p>
+<p>45" Wide</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418657759287</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.40</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418657759287</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1418657497143</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-116"/>
+    <title>AMB-5 Lt Grey</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-05.jpg?v=1540309795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.40
+            <a href="https://quiltex.ca/products/copy-of-amb-116">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418657497143</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.40</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418657497143</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1418657300535</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-1"/>
+    <title>AMB-116 Mist Grey</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/American_Made_Brand_-_24352.jpg?v=1580567807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/copy-of-amb-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418657300535</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418657300535</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1418656907319</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-2"/>
+    <title>AMB-1 White</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-01.jpg?v=1540309671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/copy-of-amb-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks<br></p>
+<p>100% Cotton</p>
+<p>45" Wide</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418656907319</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418656907319</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1418656383031</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-57"/>
+    <title>AMB-2 Lt Cream</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-57_b79a0b7d-9a16-4ffa-a0b6-16766cf3e6f7.jpg?v=1540309483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/copy-of-amb-57">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>TEMPORARILY OUT OF STOCK - ETA Mid-June 2020</strong></span></p>
+<p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p>
+<p>45" Wide</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418656383031</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1418656383031</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1417233662007</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-12"/>
+    <title>AMB-57 Cream</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-57.jpg?v=1540234203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.40
+            <a href="https://quiltex.ca/products/copy-of-amb-12">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417233662007</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.40</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417233662007</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1417233530935</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-11"/>
+    <title>AMB-12 Khaki</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb_12_lrg.jpg?v=1573421163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/copy-of-amb-11">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417233530935</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417233530935</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1417233170487</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-60"/>
+    <title>AMB-11 Lt Khaki</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-11.jpg?v=1540234036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/copy-of-amb-60">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417233170487</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417233170487</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1417232810039</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-62"/>
+    <title>AMB-60 Dk Butter</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-60.jpg?v=1540233965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.40
+            <a href="https://quiltex.ca/products/copy-of-amb-62">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417232810039</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.40</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417232810039</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1417232449591</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-64"/>
+    <title>AMB-62 Taupe</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-62.jpg?v=1540233915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.40
+            <a href="https://quiltex.ca/products/copy-of-amb-64">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417232449591</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.40</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417232449591</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1417232220215</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-63"/>
+    <title>AMB-64 Lt Caramel</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-64.jpg?v=1540233871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.40
+            <a href="https://quiltex.ca/products/copy-of-amb-63">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417232220215</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.40</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417232220215</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1417232023607</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-120"/>
+    <title>AMB-63 Dk Taupe</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-63.jpg?v=1540233822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.40
+            <a href="https://quiltex.ca/products/copy-of-amb-120">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417232023607</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.40</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417232023607</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1417229762615</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-amb-14"/>
+    <title>AMB-15 Brown</title>
+    <s:type>American Made Brand Cotton Solids</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/amb-15.jpg?v=1540233245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>American Made Brand Cotton Solids<br>
+        <strong>Price: </strong>
+            5.65 - 77.41
+            <a href="https://quiltex.ca/products/copy-of-amb-14">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American Made Brand Cotton Solids for Clothworks</p>
+<p>100% Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417229762615</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">77.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1417229762615</id>
+      <title>.</title>
+      <s:price currency="CAD">5.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+</feed>

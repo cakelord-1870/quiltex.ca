@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/five-collections.atom"/>
+  <title>Quiltex</title>
+  <updated>2019-09-07T13:32:26-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/1726528782391</id>
+    <published>2019-09-07T13:32:26-04:00</published>
+    <updated>2019-09-07T13:32:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/five-florals-collection"/>
+    <title>Five - Florals Collection</title>
+    <s:type>blenders collection</s:type>
+    <s:vendor>five</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Greenshot_2019-09-07_13.32.04.png?v=1567877615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>five<br>
+        <strong>Type: </strong>blenders collection<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>5 Piece Collection - 50 meters in total</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1726528782391</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10206</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1726505386039</id>
+    <published>2019-09-07T13:09:27-04:00</published>
+    <updated>2019-09-07T13:09:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/five-butterfly-garden-collection"/>
+    <title>Five - Butterfly Garden Collection</title>
+    <s:type>blenders collection</s:type>
+    <s:vendor>five</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Greenshot_2019-09-07_13.12.32.png?v=1567876387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>five<br>
+        <strong>Type: </strong>blenders collection<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>5 Piece Collection - 50 meters in total</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1726505386039</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10206</s:grams>
+    </s:variant>
+  </entry>
+</feed>

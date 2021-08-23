@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/the-world-of-susybee-harold-the-hare.atom"/>
+  <title>Quiltex</title>
+  <updated>2020-10-07T21:45:24-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/4731632779353</id>
+    <published>2020-10-07T21:45:24-04:00</published>
+    <updated>2020-10-07T21:45:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20103-832"/>
+    <title>SB20103-830</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20103-830-lrg_3e699004-582e-40ae-8554-e1a20d120967.jpg?v=1602121576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20103-832">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: DEC/JAN 2021</strong></span><br></p>
+<p>Swirl by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731632779353</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731632779353</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731632681049</id>
+    <published>2020-10-07T21:44:16-04:00</published>
+    <updated>2020-10-07T21:44:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20103-451"/>
+    <title>SB20103-450</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20103-450-lrg_b7aff1f1-aaa2-4cdb-ba2e-1571c2924b57.jpg?v=1602121508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20103-451">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: NOV/DEC 2020</strong></span><br></p>
+<p>Swirl by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731632681049</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731632681049</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731632582745</id>
+    <published>2020-10-07T21:42:40-04:00</published>
+    <updated>2020-10-07T21:42:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20103-432"/>
+    <title>SB20103-430</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20103-430_adc92a33-4dd2-491c-9aa3-be651b3c21fd.jpg?v=1602121440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20103-432">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: NOV/DEC 2020</strong></span><br></p>
+<p>Swirl by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731632582745</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731632582745</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731632320601</id>
+    <published>2020-10-07T21:40:32-04:00</published>
+    <updated>2020-10-07T21:40:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20372-930"/>
+    <title>SB20372-930</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20372-930.jpg?v=1602121294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            10.50 - 143.85
+            <a href="https://quiltex.ca/products/sb20372-930">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span><br></p>
+<p>Harold the Hare by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731632320601</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">143.85</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731632320601</id>
+      <title>.</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731631960153</id>
+    <published>2020-10-07T21:37:41-04:00</published>
+    <updated>2020-10-07T21:37:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb200053-190"/>
+    <title>SB200053-190</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/BasicsSB20053col190copy.jpg?v=1602121119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb200053-190">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery NOV/DEC 2020</strong></span><br></p>
+<p>Harold the Hare by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731631960153</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731631960153</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731631534169</id>
+    <published>2020-10-07T21:35:10-04:00</published>
+    <updated>2020-10-07T21:35:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb200053-930"/>
+    <title>SB200053-930</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/BasicsSB20053col930copy.jpg?v=1602120973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb200053-930">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery NOV/DEC 2020</strong></span><br></p>
+<p>Harold the Hare by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731631534169</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731631534169</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731631304793</id>
+    <published>2020-10-07T21:33:37-04:00</published>
+    <updated>2020-10-07T21:33:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb200053-310"/>
+    <title>SB200053-310</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/BasicsSB20053col310copy.jpg?v=1602120880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb200053-310">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery NOV/DEC 2020</strong></span><br></p>
+<p>Harold the Hare by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731631304793</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731631304793</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731630125145</id>
+    <published>2020-10-07T21:25:11-04:00</published>
+    <updated>2020-10-07T21:25:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20171-830"/>
+    <title>SB20171-830</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/BasicsSB20171col830copy.jpg?v=1602120422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20171-830">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: NOV/DEC 2020</strong></span><br></p>
+<p>Irregular Dot by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731630125145</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731630125145</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731629469785</id>
+    <published>2020-10-07T21:19:50-04:00</published>
+    <updated>2020-10-07T21:19:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20268-820"/>
+    <title>SB20268-820</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20268-820-lrg_d4f44164-1980-4226-8644-d57e737576f1.jpg?v=1602120283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20268-820">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 2021</strong></span><br></p>
+<p>Gingham Check by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731629469785</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731629469785</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731628716121</id>
+    <published>2020-10-07T21:14:32-04:00</published>
+    <updated>2020-10-07T21:14:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20268-420"/>
+    <title>SB20268-420</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20268-420-lrg_3751e698-aada-4392-9b2b-d6a086e9e1f4.jpg?v=1602120210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20268-420">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 20210</strong></span><br></p>
+<p>Gingham Check by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731628716121</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731628716121</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731628585049</id>
+    <published>2020-10-07T21:13:03-04:00</published>
+    <updated>2020-10-07T21:13:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20197-932"/>
+    <title>SB20197-930</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20197-930-lrg_72c4b748-713c-4398-99c8-7322b15c23db.jpg?v=1602119639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20197-932">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: NOV/DEC 2020</strong></span><br></p>
+<p>Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731628585049</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731628585049</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731628421209</id>
+    <published>2020-10-07T21:11:47-04:00</published>
+    <updated>2020-10-07T21:11:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20197-820"/>
+    <title>SB20197-820</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20197-820-lrg_b7be76e3-c26a-49bc-af5c-3f3038be3264.jpg?v=1602119565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20197-820">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: DEC/JAN 2021</strong></span></p>
+<p>Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731628421209</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731628421209</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731627700313</id>
+    <published>2020-10-07T21:09:16-04:00</published>
+    <updated>2020-10-07T21:09:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20197-100"/>
+    <title>SB20197-100</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20197-100-lrg_47413d74-b24f-4740-9c0c-6bf99e36c96f.jpg?v=1602119426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20197-100">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 2021</strong></span><br></p>
+<p>Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731627700313</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731627700313</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731627012185</id>
+    <published>2020-10-07T21:07:40-04:00</published>
+    <updated>2020-10-07T21:07:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20157-420"/>
+    <title>SB20157-420</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20157-420-lrg_ad5b5360-0418-4394-8954-55ddaea2c545.jpg?v=1602119326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20157-420">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 2021</strong></span><br></p>
+<p>Tonal Dot by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731627012185</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731627012185</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731626455129</id>
+    <published>2020-10-07T21:02:49-04:00</published>
+    <updated>2020-10-07T21:02:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20105-200"/>
+    <title>SB20105-199</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20105-199-lrg_4001cf0f-71db-48ac-9995-52e1e639462a.jpg?v=1602119902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20105-200">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 2021</strong></span><br></p>
+<p>Freehand Stripe by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731626455129</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731626455129</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731626291289</id>
+    <published>2020-10-07T21:01:31-04:00</published>
+    <updated>2020-10-07T21:01:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20105-101"/>
+    <title>SB20105-100</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20105-100-lrg_93307621-9314-423f-bb1b-e91a1b2b4043.jpg?v=1602118954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20105-101">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 2021</strong></span><br></p>
+<p>Freehand Stripe by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731626291289</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731626291289</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731626192985</id>
+    <published>2020-10-07T21:00:10-04:00</published>
+    <updated>2020-10-07T21:00:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20375-100"/>
+    <title>SB20375-100</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20375-100.jpg?v=1602118840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20375-100">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span><br></p>
+<p>Harold the Hare by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731626192985</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731626192985</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731626061913</id>
+    <published>2020-10-07T20:59:14-04:00</published>
+    <updated>2020-10-07T20:59:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20373-100"/>
+    <title>SB20373-100</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20373-100.jpg?v=1602118783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20373-100">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span><br></p>
+<p>Harold the Hare by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731626061913</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731626061913</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731625963609</id>
+    <published>2020-10-07T20:57:46-04:00</published>
+    <updated>2020-10-07T20:57:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20373-930"/>
+    <title>SB20373-930</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20373-930.jpg?v=1602118726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20373-930">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span><br></p>
+<p>Harold the Hare by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731625963609</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731625963609</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731625406553</id>
+    <published>2020-10-07T20:54:36-04:00</published>
+    <updated>2020-10-07T20:54:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20371-100-double-border"/>
+    <title>SB20371-100 Double Border</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20371-100.jpg?v=1602118545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            10.50 - 143.85
+            <a href="https://quiltex.ca/products/sb20371-100-double-border">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span><br></p>
+<p>Harols the Hare by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide<br></p>
+<p>Double Border - 24"Repeat</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731625406553</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">143.85</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731625406553</id>
+      <title>.</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731625242713</id>
+    <published>2020-10-07T20:53:41-04:00</published>
+    <updated>2020-10-07T20:53:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20374-100"/>
+    <title>SB20374-100</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20374-100.jpg?v=1602118582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            10.50 - 143.85
+            <a href="https://quiltex.ca/products/sb20374-100">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span><br></p>
+<p>Harols the Hare by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide<br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731625242713</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">143.85</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731625242713</id>
+      <title>.</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731624882265</id>
+    <published>2020-10-07T20:51:22-04:00</published>
+    <updated>2020-10-07T20:51:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20376-930-play-mat"/>
+    <title>SB20376-930 Play Mat</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20376-930.jpg?v=1602118602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            10.50 - 143.85
+            <a href="https://quiltex.ca/products/sb20376-930-play-mat">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span><br></p>
+<p>Harols the Hare by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>36" x 44" Play Mat or Wall Hanging </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731624882265</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">143.85</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731624882265</id>
+      <title>.</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4731624357977</id>
+    <published>2020-10-07T20:48:31-04:00</published>
+    <updated>2020-10-07T20:48:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20370-930-panel"/>
+    <title>SB20370-930 Panel</title>
+    <s:type>Harold the Hare</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20370-930.jpg?v=1602118622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Harold the Hare<br>
+        <strong>Price: </strong>
+            10.50 - 143.85
+            <a href="https://quiltex.ca/products/sb20370-930-panel">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span><br></p>
+<p>Harold the Hare by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p>36" Panel</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731624357977</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">143.85</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4731624357977</id>
+      <title>.</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+</feed>

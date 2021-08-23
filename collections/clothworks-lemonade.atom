@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/clothworks-lemonade.atom"/>
+  <title>Quiltex</title>
+  <updated>2020-10-15T21:31:31-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/4738432827481</id>
+    <published>2020-10-15T21:31:31-04:00</published>
+    <updated>2020-10-15T21:31:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3215-61"/>
+    <title>Y3215-61</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3215-61_sm.jpg?v=1602811920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3215-61">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738432827481</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738432827481</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738432139353</id>
+    <published>2020-10-15T21:30:34-04:00</published>
+    <updated>2020-10-15T21:30:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3215-16"/>
+    <title>Y3215-16</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3215-16_sm.jpg?v=1602811861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3215-16">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738432139353</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738432139353</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738432073817</id>
+    <published>2020-10-15T21:29:42-04:00</published>
+    <updated>2020-10-15T21:29:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3215-5"/>
+    <title>Y3215-5</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3215-5_sm.jpg?v=1602811813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3215-5">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738432073817</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738432073817</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738431811673</id>
+    <published>2020-10-15T21:28:46-04:00</published>
+    <updated>2020-10-15T21:28:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3214-62"/>
+    <title>Y3214-62</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3214-62_sm_1.jpg?v=1602811758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3214-62">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738431811673</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738431811673</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738431483993</id>
+    <published>2020-10-15T21:27:42-04:00</published>
+    <updated>2020-10-15T21:27:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3214-55"/>
+    <title>Y3214-55</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3214-55_sm.jpg?v=1602811698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3214-55">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738431483993</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738431483993</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738431254617</id>
+    <published>2020-10-15T21:26:35-04:00</published>
+    <updated>2020-10-15T21:26:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3214-9"/>
+    <title>Y3214-9</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3214-9_sm.jpg?v=1602811627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3214-9">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738431254617</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738431254617</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738431058009</id>
+    <published>2020-10-15T21:25:29-04:00</published>
+    <updated>2020-10-15T21:25:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3213-55"/>
+    <title>Y3213-55</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3213-55_sm.jpg?v=1602811564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3213-55">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738431058009</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738431058009</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738430926937</id>
+    <published>2020-10-15T21:24:32-04:00</published>
+    <updated>2020-10-15T21:24:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3213-16"/>
+    <title>Y3213-16</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3213-16_sm.jpg?v=1602811503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3213-16">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738430926937</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738430926937</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738430566489</id>
+    <published>2020-10-15T21:23:30-04:00</published>
+    <updated>2020-10-15T21:23:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3213-10"/>
+    <title>Y3213-10</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3213-10_sm.jpg?v=1602811448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3213-10">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738430566489</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738430566489</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738430369881</id>
+    <published>2020-10-15T21:22:29-04:00</published>
+    <updated>2020-10-15T21:22:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3212-55"/>
+    <title>Y3212-55</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3212-55_sm_1.jpg?v=1602811385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3212-55">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738430369881</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738430369881</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738430140505</id>
+    <published>2020-10-15T21:21:28-04:00</published>
+    <updated>2020-10-15T21:21:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3212-10"/>
+    <title>Y3212-10</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3212-10_sm.jpg?v=1602811324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3212-10">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738430140505</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738430140505</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738429747289</id>
+    <published>2020-10-15T21:20:19-04:00</published>
+    <updated>2020-10-15T21:20:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3211-55"/>
+    <title>Y3211-55</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3211-55_sm.jpg?v=1602811255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3211-55">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738429747289</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738429747289</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738429354073</id>
+    <published>2020-10-15T21:19:12-04:00</published>
+    <updated>2020-10-15T21:19:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3211-10"/>
+    <title>Y3211-10</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3211-10_sm.jpg?v=1602811188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3211-10">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738429354073</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738429354073</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738429124697</id>
+    <published>2020-10-15T21:17:45-04:00</published>
+    <updated>2020-10-15T21:17:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3210-62"/>
+    <title>Y3210-62</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3210-62_sm.jpg?v=1602811113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3210-62">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738429124697</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738429124697</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4738428076121</id>
+    <published>2020-10-15T21:11:13-04:00</published>
+    <updated>2020-10-15T21:11:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3210-55"/>
+    <title>Y3210-55</title>
+    <s:type>Lemonade</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3210-55_sm.jpg?v=1602810776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Lemonade<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3210-55">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery <meta charset="utf-8">APR/MAY<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Lemonade by Dan DiPaolo for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738428076121</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4738428076121</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+</feed>

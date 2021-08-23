@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/the-world-of-susybee-sweet-bees.atom"/>
+  <title>Quiltex</title>
+  <updated>2020-06-28T22:37:59-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/4669469818969</id>
+    <published>2020-06-28T22:37:59-04:00</published>
+    <updated>2020-06-28T22:37:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20053-190-dk-grey-3"/>
+    <title>SB20053-190 dk grey</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20053-190-lrg_e864e7bb-b741-459f-a323-bebbe3641394.jpg?v=1593398312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20053-190-dk-grey-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>ESTIMATED SHIPPING: MAR/APR 2021</strong></span></p>
+<p>Sweet Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669469818969</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669469818969</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669469327449</id>
+    <published>2020-06-28T22:36:44-04:00</published>
+    <updated>2020-06-28T22:36:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20053-170-med-grey-3"/>
+    <title>SB20053-170 med grey</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20053-170-lrg_db4c34fe-300a-4cb0-878e-1fc5389bc8c5.jpg?v=1593398244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20053-170-med-grey-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: DEC/JAN 2021</strong></span><br></p>
+<p>Sweet Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669469327449</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669469327449</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669468409945</id>
+    <published>2020-06-28T22:34:13-04:00</published>
+    <updated>2020-06-28T22:34:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20053-310-yellow-6"/>
+    <title>SB20053-310 yellow</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20053-310-lrg.jpg?v=1593398100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20053-310-yellow-6">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: DEC/JAN<span data-mce-fragment="1"> </span>2021</strong></span><br></p>
+<p>Sweet Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669468409945</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669468409945</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669467852889</id>
+    <published>2020-06-28T22:32:46-04:00</published>
+    <updated>2020-06-28T22:32:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20053-101-white-5"/>
+    <title>SB20053-101 white</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20053-101-lrg_893acdec-26e9-42ff-b392-7ea61221b9a1.jpg?v=1593398003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20053-101-white-5">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: DEC/JAN 2021</strong></span><br></p>
+<p>Sweet Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669467852889</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669467852889</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669467328601</id>
+    <published>2020-06-28T22:31:29-04:00</published>
+    <updated>2020-06-28T22:31:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20103-830-med-green"/>
+    <title>SB20103-830 med green</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20103-830-lrg.jpg?v=1593397933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20103-830-med-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: DEC/JAN 2021</strong></span><br></p>
+<p>Swirl by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669467328601</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669467328601</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669466804313</id>
+    <published>2020-06-28T22:30:02-04:00</published>
+    <updated>2020-06-28T22:30:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20157-420-lt-coral-2"/>
+    <title>SB20157-420 lt coral</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20157-420-lrg_2d456c04-42d8-4b82-956b-41a024cbce1f.jpg?v=1593397853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20157-420-lt-coral-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 2021</strong></span><br></p>
+<p>Tonal Dot by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669466804313</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669466804313</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669466214489</id>
+    <published>2020-06-28T22:28:34-04:00</published>
+    <updated>2020-06-28T22:28:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20157-310-yellow-5"/>
+    <title>SB20157-310 yellow</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20157-310-lrg_1e560918-a567-47b0-9350-854b8d868d12.jpg?v=1593397749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20157-310-yellow-5">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 2021</strong></span><br></p>
+<p>Sweet Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669466214489</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669466214489</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669465165913</id>
+    <published>2020-06-28T22:25:59-04:00</published>
+    <updated>2020-06-28T22:25:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20268-820-green-2"/>
+    <title>SB20268-820 green</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20268-820-lrg_e7606d37-c464-49e1-b8ce-fd9f9e0df800.jpg?v=1593397616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20268-820-green-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 2021</strong></span><br></p>
+<p>Gingham Check by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669465165913</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669465165913</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669464346713</id>
+    <published>2020-06-28T22:24:06-04:00</published>
+    <updated>2020-06-28T22:24:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20268-420-orange"/>
+    <title>SB20268-420 orange</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20268-420-lrg.jpg?v=1593397494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20268-420-orange">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 2021</strong></span><br></p>
+<p>Gingham Check by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669464346713</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669464346713</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669463625817</id>
+    <published>2020-06-28T22:22:18-04:00</published>
+    <updated>2020-06-28T22:22:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20268-310"/>
+    <title>SB20268-310 yellow</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20268-310-lrg.jpg?v=1593397408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20268-310">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 2021</strong></span><br></p>
+<p>Gingham Check by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669463625817</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669463625817</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669462708313</id>
+    <published>2020-06-28T22:20:26-04:00</published>
+    <updated>2020-06-28T22:20:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20197-820-green"/>
+    <title>SB20197-820 green</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20197-820-lrg.jpg?v=1593397268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20197-820-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: DEC/JAN 2021</strong></span><br></p>
+<p>Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669462708313</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669462708313</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669461200985</id>
+    <published>2020-06-28T22:17:48-04:00</published>
+    <updated>2020-06-28T22:17:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20197-310-yellow"/>
+    <title>SB20197-310 yellow</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20197-310-lrg.jpg?v=1593397108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20197-310-yellow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 2021</strong></span><br></p>
+<p>Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669461200985</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669461200985</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669458710617</id>
+    <published>2020-06-28T22:13:39-04:00</published>
+    <updated>2020-06-28T22:13:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20197-100-white-3"/>
+    <title>SB20197-100 white</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20197-100-lrg.jpg?v=1593397191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20197-100-white-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong><meta charset="utf-8">ESTIMATED SHIPPING: MAR/APR 2021</strong></span><br></p>
+<p>Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669458710617</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669458710617</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669458055257</id>
+    <published>2020-06-28T22:11:59-04:00</published>
+    <updated>2020-06-28T22:11:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20364-310"/>
+    <title>SB20364-310</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20364-310-lrg.jpg?v=1593396760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20364-310">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>ESTIMATED SHIPPING: MAR/APR 2021</strong></span></p>
+<p>Sweet Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669458055257</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669458055257</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669457563737</id>
+    <published>2020-06-28T22:10:51-04:00</published>
+    <updated>2020-06-28T22:10:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20362-310"/>
+    <title>SB20362-310</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20362-310-lrg.jpg?v=1593396691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20362-310">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>ESTIMATED SHIPPING: MAR/APR 2021</strong></span></p>
+<p>Sweet Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669457563737</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669457563737</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669457072217</id>
+    <published>2020-06-28T22:09:39-04:00</published>
+    <updated>2020-06-28T22:09:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20362-100"/>
+    <title>SB20362-100</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20362-100-lrg.jpg?v=1593396627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20362-100">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>ESTIMATED SHIPPING: MAR/APR 2021</strong></span></p>
+<p>Sweet Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669457072217</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669457072217</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669456515161</id>
+    <published>2020-06-28T22:08:14-04:00</published>
+    <updated>2020-06-28T22:08:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20363-100"/>
+    <title>SB20363-100</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20363-100-lrg.jpg?v=1593396557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/sb20363-100">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>ESTIMATED SHIPPING: MAR/APR 2021</strong></span></p>
+<p>Sweet Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669456515161</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669456515161</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669455532121</id>
+    <published>2020-06-28T22:05:59-04:00</published>
+    <updated>2020-06-28T22:05:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20361-100-double-border"/>
+    <title>SB20361-100 Double Border</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20361-100lg.png?v=1593481912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            10.50 - 143.85
+            <a href="https://quiltex.ca/products/sb20361-100-double-border">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>ESTIMATED SHIPPING: MAR/APR 2021</strong></span></p>
+<p>Sweet Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669455532121</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">143.85</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669455532121</id>
+      <title>.</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4669454057561</id>
+    <published>2020-06-28T22:02:54-04:00</published>
+    <updated>2020-06-28T22:02:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sb20360-310-panel"/>
+    <title>SB20360-310 Panel</title>
+    <s:type>Sweet Bees</s:type>
+    <s:vendor>The World of Susybee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SB20360-310.jpg?v=1593396278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The World of Susybee<br>
+        <strong>Type: </strong>Sweet Bees<br>
+        <strong>Price: </strong>
+            10.50 - 143.85
+            <a href="https://quiltex.ca/products/sb20360-310-panel">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>ESTIMATED SHIPPING: MAR/APR 2021</strong></span></p>
+<p>Sweet Bees by Susy Bleasby for The World of Susybee<br></p>
+<p>100% Cotton</p>
+<p>45" Wide </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669454057561</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">143.85</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4669454057561</id>
+      <title>.</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+</feed>

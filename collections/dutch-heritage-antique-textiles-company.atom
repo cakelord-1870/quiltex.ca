@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/dutch-heritage-antique-textiles-company.atom"/>
+  <title>Quiltex</title>
+  <updated>2021-06-22T11:45:23-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/6756948050111</id>
+    <published>2021-06-22T11:45:23-04:00</published>
+    <updated>2021-06-22T11:45:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher4026-yellow"/>
+    <title>DHER4026 Yellow</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4026-YELLOW.jpg?v=1624376732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher4026-yellow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  </strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756948050111</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756948050111</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6756947329215</id>
+    <published>2021-06-22T11:44:51-04:00</published>
+    <updated>2021-06-22T11:44:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher4026-red"/>
+    <title>DHER4026 Red</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4026-RED.jpg?v=1624376703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher4026-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  </strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756947329215</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756947329215</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6756947001535</id>
+    <published>2021-06-22T11:44:27-04:00</published>
+    <updated>2021-06-22T11:44:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher4026-pale-blue"/>
+    <title>DHER4026 Pale Blue</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4026-PALEBLUE.jpg?v=1624376681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher4026-pale-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  </strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756947001535</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756947001535</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6756946411711</id>
+    <published>2021-06-22T11:43:55-04:00</published>
+    <updated>2021-06-22T11:43:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher4026-multi"/>
+    <title>DHER4026 Multi</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4026-MULTI.jpg?v=1624376651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher4026-multi">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  </strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756946411711</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756946411711</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6756946051263</id>
+    <published>2021-06-22T11:43:32-04:00</published>
+    <updated>2021-06-22T11:43:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher4026-lime-green"/>
+    <title>DHER4026 Lime Green</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4026-LIMEGREEN.jpg?v=1624376623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher4026-lime-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  </strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756946051263</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756946051263</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6756945494207</id>
+    <published>2021-06-22T11:43:09-04:00</published>
+    <updated>2021-06-22T11:43:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher4026-lavender-grey"/>
+    <title>DHER4026 Lavender Grey</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4026-LAVENDERGREY.jpg?v=1624376598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher4026-lavender-grey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  </strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756945494207</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756945494207</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6756945002687</id>
+    <published>2021-06-22T11:42:34-04:00</published>
+    <updated>2021-06-22T11:42:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher4026-dusty-pink"/>
+    <title>DHER4026 Dusty Pink</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4026-PINK.jpg?v=1624376568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher4026-dusty-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  </strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756945002687</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756945002687</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6756944347327</id>
+    <published>2021-06-22T11:42:05-04:00</published>
+    <updated>2021-06-22T11:42:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher4026-dk-petrol"/>
+    <title>DHER4026 Dk Petrol</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4026-DARKPETROL.jpg?v=1624376537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher4026-dk-petrol">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  </strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756944347327</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756944347327</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6756943003839</id>
+    <published>2021-06-22T11:40:49-04:00</published>
+    <updated>2021-06-22T11:40:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher4026"/>
+    <title>DHER4026 Cream</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4026-CREAM_1.jpg?v=1624376497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher4026">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  </strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756943003839</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756943003839</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278475317439</id>
+    <published>2021-01-21T21:54:20-05:00</published>
+    <updated>2021-01-21T21:54:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54023-taupe"/>
+    <title>DHER4023 Taupe</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4023-TAUPE.jpg?v=1611284078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54023-taupe">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278475317439</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278475317439</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278474236095</id>
+    <published>2021-01-21T21:53:44-05:00</published>
+    <updated>2021-01-21T21:53:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54023-royal"/>
+    <title>DHER4023 Royal</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4023-ROYAL.jpg?v=1611284041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54023-royal">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278474236095</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278474236095</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278472990911</id>
+    <published>2021-01-21T21:52:58-05:00</published>
+    <updated>2021-01-21T21:52:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54023-pink"/>
+    <title>DHER4023 Pink</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4023-PINK.jpg?v=1611284006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54023-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278472990911</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278472990911</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278471778495</id>
+    <published>2021-01-21T21:52:17-05:00</published>
+    <updated>2021-01-21T21:52:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54023-orange"/>
+    <title>DHER4023 Orange</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4023-ORANGE.jpg?v=1611283955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54023-orange">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278471778495</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278471778495</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278470860991</id>
+    <published>2021-01-21T21:51:39-05:00</published>
+    <updated>2021-01-21T21:51:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54023-multi"/>
+    <title>DHER4023 Multi</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4023-MULTI.jpg?v=1611283919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54023-multi">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278470860991</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278470860991</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278470271167</id>
+    <published>2021-01-21T21:51:04-05:00</published>
+    <updated>2021-01-21T21:51:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54023-lt-blue"/>
+    <title>DHER4023 Lt Blue</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4023-LIGHTBLUE.jpg?v=1611283882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54023-lt-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278470271167</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278470271167</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278468763839</id>
+    <published>2021-01-21T21:50:04-05:00</published>
+    <updated>2021-01-21T21:50:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54023-grey"/>
+    <title>DHER4023 Grey</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4023-GREY.jpg?v=1611283827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54023-grey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278468763839</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278468763839</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278468337855</id>
+    <published>2021-01-21T21:49:24-05:00</published>
+    <updated>2021-01-21T21:49:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54023-green"/>
+    <title>DHER4023 Green</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4023-GREEN.jpg?v=1611283787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54023-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278468337855</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278468337855</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278467584191</id>
+    <published>2021-01-21T21:48:47-05:00</published>
+    <updated>2021-01-21T21:48:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54023-cream"/>
+    <title>DHER4023 Cream</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4023-CREAM.jpg?v=1611283745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54023-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278467584191</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278467584191</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278466568383</id>
+    <published>2021-01-21T21:48:07-05:00</published>
+    <updated>2021-01-21T21:48:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54023-brown"/>
+    <title>DHER4023 Brown</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4023-BROWN.jpg?v=1611283707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54023-brown">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278466568383</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278466568383</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278465028287</id>
+    <published>2021-01-21T21:47:12-05:00</published>
+    <updated>2021-01-21T21:47:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54022"/>
+    <title>DHER4022</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4022.jpg?v=1611283655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54022">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278465028287</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278465028287</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278463586495</id>
+    <published>2021-01-21T21:46:27-05:00</published>
+    <updated>2021-01-21T21:46:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54021"/>
+    <title>DHER4021</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4021.jpg?v=1611283615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54021">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278463586495</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278463586495</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278462537919</id>
+    <published>2021-01-21T21:45:38-05:00</published>
+    <updated>2021-01-21T21:45:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54020"/>
+    <title>DHER4020</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4020.jpg?v=1611283570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54020">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278462537919</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278462537919</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278461751487</id>
+    <published>2021-01-21T21:45:05-05:00</published>
+    <updated>2021-01-21T21:45:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54019"/>
+    <title>DHER4019</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4019.jpg?v=1611283525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54019">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278461751487</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278461751487</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278461194431</id>
+    <published>2021-01-21T21:44:31-05:00</published>
+    <updated>2021-01-21T21:44:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54018"/>
+    <title>DHER4018</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4018.jpg?v=1611283490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54018">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278461194431</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278461194431</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6278460113087</id>
+    <published>2021-01-21T21:43:57-05:00</published>
+    <updated>2021-01-21T21:43:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher54017"/>
+    <title>DHER4017</title>
+    <s:type>Antique Textiles Company</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER4017.jpg?v=1611283456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Antique Textiles Company<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher54017">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p><span>Antique Textiles Company by Dutch Heritage</span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278460113087</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6278460113087</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+</feed>

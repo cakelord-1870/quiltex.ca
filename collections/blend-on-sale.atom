@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/blend-on-sale.atom"/>
+  <title>Quiltex</title>
+  <updated>2021-03-18T11:31:06-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/4371927924825</id>
+    <published>2021-03-18T11:31:06-04:00</published>
+    <updated>2021-03-18T11:31:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/101-153-01-1-sky-high-navy"/>
+    <title>101.153.01.1 Sky High Navy</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/101.153.01.1_0.jpg?v=1590189380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/101-153-01-1-sky-high-navy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>AVAILABLE NOW</strong></p>
+<p> Chasing Rainbows by Maude Asbury for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371927924825</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371927924825</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4371930644569</id>
+    <published>2019-12-02T21:43:37-05:00</published>
+    <updated>2019-12-02T21:43:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/101-153-01-2-sky-high-white"/>
+    <title>101.153.01.2 Sky High White</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/101.153.01.2_0.jpg?v=1590189437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/101-153-01-2-sky-high-white">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>AVAILABLE NOW</strong></p>
+<p> Chasing Rainbows by Maude Asbury for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371930644569</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371930644569</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4371924484185</id>
+    <published>2019-12-02T21:32:01-05:00</published>
+    <updated>2019-12-02T21:32:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/124-110-04-2-painted-chevron-black"/>
+    <title>124.110.04.2 Painted Chevron Black</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/124.110.04.2.jpg?v=1590192254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/124-110-04-2-painted-chevron-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAY/JUN 2020</strong></span></p>
+<p> Lions and Tigers and More! by Katy Tanis for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371924484185</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371924484185</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4371924418649</id>
+    <published>2019-12-02T21:31:23-05:00</published>
+    <updated>2019-12-02T21:31:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/124-110-04-1-painted-chevron-aqua"/>
+    <title>124.110.04.1 Painted Chevron Aqua</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/124.110.04.1.jpg?v=1590192215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/124-110-04-1-painted-chevron-aqua">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAY/JUN 2020</strong></span></p>
+<p> Lions and Tigers and More! by Katy Tanis for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371924418649</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371924418649</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4371923992665</id>
+    <published>2019-12-02T21:29:30-05:00</published>
+    <updated>2019-12-02T21:29:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/124-110-03-1-dots-and-dashes-pink"/>
+    <title>124.110.03.1 Dots and Dashes Pink</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/124.110.03.1.jpg?v=1590192121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/124-110-03-1-dots-and-dashes-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAY/JUN 2020</strong></span></p>
+<p> Lions and Tigers and More! by Katy Tanis for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371923992665</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371923992665</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4371922911321</id>
+    <published>2019-12-02T21:28:36-05:00</published>
+    <updated>2019-12-02T21:28:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/124-110-02-3-feline-faces-white"/>
+    <title>124.110.02.3 Feline Faces White</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/124.110.02.3.jpg?v=1590192078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/124-110-02-3-feline-faces-white">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAY/JUN 2020</strong></span></p>
+<p> Lions and Tigers and More! by Katy Tanis for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371922911321</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371922911321</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4371922649177</id>
+    <published>2019-12-02T21:27:43-05:00</published>
+    <updated>2019-12-02T21:27:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/124-110-02-2-feline-faces-blue"/>
+    <title>124.110.02.2 Feline Faces Blue</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/124.110.02.2.jpg?v=1590192041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/124-110-02-2-feline-faces-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAY/JUN 2020</strong></span></p>
+<p> Lions and Tigers and More! by Katy Tanis for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371922649177</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371922649177</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4371922026585</id>
+    <published>2019-12-02T21:26:50-05:00</published>
+    <updated>2019-12-02T21:26:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/124-110-02-1-feline-faces-pink"/>
+    <title>124.110.02.1 Feline Faces Pink</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/124.110.02.1.jpg?v=1590191997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/124-110-02-1-feline-faces-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAY/JUN 2020</strong></span></p>
+<p> Lions and Tigers and More! by Katy Tanis for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371922026585</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371922026585</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4371918356569</id>
+    <published>2019-12-02T21:21:22-05:00</published>
+    <updated>2019-12-02T21:21:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/124-110-01-1-wild-cats-white"/>
+    <title>124.110.01.1 Wild Cats White</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/124.110.01.1.jpg?v=1590191897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/124-110-01-1-wild-cats-white">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAY/JUN 2020</strong></span></p>
+<p> Lions and Tigers and More! by Katy Tanis for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371918356569</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4371918356569</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4370701910105</id>
+    <published>2019-12-01T21:56:43-05:00</published>
+    <updated>2019-12-01T21:56:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/126-108-05-2-elm-grey"/>
+    <title>126.108.05.2 Elm Grey</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/126.108.05.2.jpg?v=1590193443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/126-108-05-2-elm-grey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAY/JUN 2020</strong></span></p>
+<p> Enchanted by Elizabeth Grubaugh for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4370701910105</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4370701910105</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4370701811801</id>
+    <published>2019-12-01T21:55:47-05:00</published>
+    <updated>2019-12-01T21:55:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/126-108-05-1-elm-red"/>
+    <title>126.108.05.1 Elm Red</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/126.108.05.1.jpg?v=1590193402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/126-108-05-1-elm-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAY/JUN 2020</strong></span></p>
+<p> Enchanted by Elizabeth Grubaugh for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4370701811801</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4370701811801</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4370699386969</id>
+    <published>2019-12-01T21:52:47-05:00</published>
+    <updated>2019-12-01T21:52:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/126-108-03-1-forest-friends-pink"/>
+    <title>126.108.03.1 Forest Friends Pink</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/126.108.03.1.jpg?v=1590193250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/126-108-03-1-forest-friends-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;" mce-data-marked="1"><strong>AVAILABLE NOW</strong></span></p>
+<p> Enchanted by Elizabeth Grubaugh for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4370699386969</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4370699386969</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4370647973977</id>
+    <published>2019-12-01T21:00:39-05:00</published>
+    <updated>2019-12-01T21:00:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/129-104-04-2-delicate-watercolor-pink"/>
+    <title>129.104.04.2 Delicate Watercolor Pink</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/129.104.04.2.jpg?v=1590194207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/129-104-04-2-delicate-watercolor-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>AVAILABLE NOW</strong></p>
+<p> Forest Friends by Mia Charro for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4370647973977</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4370647973977</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4370646466649</id>
+    <published>2019-12-01T20:58:56-05:00</published>
+    <updated>2019-12-01T20:58:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/129-104-03-2-sweet-leaves-olive"/>
+    <title>129.104.03.2 Sweet Leaves Olive</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/129.104.03.2.jpg?v=1590194131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/129-104-03-2-sweet-leaves-olive">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>AVAILABLE NOW</strong></p>
+<p> Forest Friends by Mia Charro for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4370646466649</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4370646466649</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4370646270041</id>
+    <published>2019-12-01T20:58:16-05:00</published>
+    <updated>2019-12-01T20:58:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/129-104-03-1-sweet-leaves-turquoise"/>
+    <title>129.104.03.1 Sweet Leaves Turquoise</title>
+    <s:type>Blend On Sale</s:type>
+    <s:vendor>Blend Fabrics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/129.104.03.1.jpg?v=1590194093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blend Fabrics<br>
+        <strong>Type: </strong>Blend On Sale<br>
+        <strong>Price: </strong>
+            6.95 - 95.22
+            <a href="https://quiltex.ca/products/129-104-03-1-sweet-leaves-turquoise">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>AVAILABLE NOW</strong></p>
+<p> Forest Friends by Mia Charro for Blend Fabrics<span> </span></p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4370646270041</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">95.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4370646270041</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

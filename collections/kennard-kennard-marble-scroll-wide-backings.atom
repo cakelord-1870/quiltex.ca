@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/kennard-kennard-marble-scroll-wide-backings.atom"/>
+  <title>Quiltex</title>
+  <updated>2021-03-24T20:03:30-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/6586645610687</id>
+    <published>2021-03-24T20:03:30-04:00</published>
+    <updated>2021-03-24T20:03:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026r-lime"/>
+    <title>1026R Lime</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Lime.jpg?v=1616630619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026r-lime">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586645610687</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586645610687</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586644889791</id>
+    <published>2021-03-24T20:03:05-04:00</published>
+    <updated>2021-03-24T20:03:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026q-mint"/>
+    <title>1026Q - Mint</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Mint.jpg?v=1616630594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026q-mint">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586644889791</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586644889791</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586644103359</id>
+    <published>2021-03-24T20:02:42-04:00</published>
+    <updated>2021-03-24T20:02:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026p-yellow"/>
+    <title>1026P - Yellow</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Soft-Yellow.jpg?v=1616630572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026p-yellow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586644103359</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586644103359</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586643382463</id>
+    <published>2021-03-24T20:02:18-04:00</published>
+    <updated>2021-03-24T20:02:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026o-orange"/>
+    <title>1026O - Orange</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Orange.jpg?v=1616630549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026o-orange">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586643382463</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586643382463</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586642694335</id>
+    <published>2021-03-24T20:01:54-04:00</published>
+    <updated>2021-03-24T20:01:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026n-red"/>
+    <title>1026N - Red</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Red.jpg?v=1616630523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026n-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586642694335</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586642694335</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586642006207</id>
+    <published>2021-03-24T20:01:31-04:00</published>
+    <updated>2021-03-24T20:01:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026m-rose"/>
+    <title>1026M - Rose</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Rose.jpg?v=1616630501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026m-rose">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586642006207</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586642006207</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586640695487</id>
+    <published>2021-03-24T20:00:59-04:00</published>
+    <updated>2021-03-24T20:00:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026l-purple"/>
+    <title>1026L - Violet</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Violet.jpg?v=1616630472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026l-purple">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586640695487</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586640695487</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586640138431</id>
+    <published>2021-03-24T20:00:35-04:00</published>
+    <updated>2021-03-24T20:00:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026k-periwinkle"/>
+    <title>1026K - Periwinkle</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Periwinkle.jpg?v=1616630445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026k-periwinkle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586640138431</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586640138431</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586639483071</id>
+    <published>2021-03-24T20:00:08-04:00</published>
+    <updated>2021-03-24T20:00:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026j-pink"/>
+    <title>1026J - Pink</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Pink.jpg?v=1616630418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026j-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586639483071</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586639483071</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586638598335</id>
+    <published>2021-03-24T19:59:37-04:00</published>
+    <updated>2021-03-24T19:59:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026i-aqua"/>
+    <title>1026I - Aqua</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Aqua.jpg?v=1616630386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026i-aqua">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586638598335</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586638598335</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586637811903</id>
+    <published>2021-03-24T19:59:08-04:00</published>
+    <updated>2021-03-24T19:59:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026h-sky"/>
+    <title>1026H - Sky</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Sky.jpg?v=1616630357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026h-sky">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586637811903</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586637811903</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586636959935</id>
+    <published>2021-03-24T19:58:37-04:00</published>
+    <updated>2021-03-24T19:58:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026g-cobalt"/>
+    <title>1026G - Cobalt</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Colbalt.jpg?v=1616630332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026g-cobalt">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586636959935</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586636959935</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586636435647</id>
+    <published>2021-03-24T19:58:13-04:00</published>
+    <updated>2021-03-24T19:58:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026f-white"/>
+    <title>1026F - White</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-White.jpg?v=1616630303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026f-white">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586636435647</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586636435647</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586635550911</id>
+    <published>2021-03-24T19:57:46-04:00</published>
+    <updated>2021-03-24T19:57:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026e-grey"/>
+    <title>1026E Grey</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Grey.jpg?v=1616630278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026e-grey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586635550911</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586635550911</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586634633407</id>
+    <published>2021-03-24T19:57:18-04:00</published>
+    <updated>2021-03-24T19:57:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026d-cream"/>
+    <title>1026D - Cream</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Cream.jpg?v=1616630251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026d-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586634633407</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586634633407</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586634010815</id>
+    <published>2021-03-24T19:56:54-04:00</published>
+    <updated>2021-03-24T19:56:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026c-beige"/>
+    <title>1026C - Beige</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Beige.jpg?v=1616630224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026c-beige">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586634010815</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586634010815</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586632929471</id>
+    <published>2021-03-24T19:56:26-04:00</published>
+    <updated>2021-03-24T19:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/1026b-navy"/>
+    <title>1026B - Navy</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Navy.jpg?v=1616630198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/1026b-navy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire truck</s:tag>
+    <s:tag>firetruck</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586632929471</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586632929471</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6586623754431</id>
+    <published>2021-03-24T19:51:25-04:00</published>
+    <updated>2021-03-24T19:51:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/kennard-kennard-marble-scroll-108"/>
+    <title>1026A - Black &amp; Gold</title>
+    <s:type>Marble Scroll</s:type>
+    <s:vendor>Kennard &amp; Kennard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Marble-Scroll-Gold-and-Black.jpg?v=1616629981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kennard &amp; Kennard<br>
+        <strong>Type: </strong>Marble Scroll<br>
+        <strong>Price: </strong>
+            13.95 - 251.10
+            <a href="https://quiltex.ca/products/kennard-kennard-marble-scroll-108">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery OCT/NOV 2021</strong></span></p>
+<p><span>Marble Scroll Wide Backing by Milvale Design Studio for</span><span> Kennard &amp; Kennard</span></p>
+<p>100% Cotton<br></p>
+<p>108" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Widebacks</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586623754431</id>
+      <title>18m</title>
+      <s:price currency="CAD">251.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6586623754431</id>
+      <title>.</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+</feed>

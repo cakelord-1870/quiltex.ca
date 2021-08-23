@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/clothworks-enchanted-woodland.atom"/>
+  <title>Quiltex</title>
+  <updated>2021-01-05T17:52:48-05:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/6244455612607</id>
+    <published>2021-01-05T17:52:48-05:00</published>
+    <updated>2021-01-05T17:52:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3265-113"/>
+    <title>Y3265-113</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3265-113_sm.jpg?v=1609887199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3265-113">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244455612607</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244455612607</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244454990015</id>
+    <published>2021-01-05T17:52:01-05:00</published>
+    <updated>2021-01-05T17:52:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3265-103"/>
+    <title>Y3265-103</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3265-103_sm.jpg?v=1609887154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3265-103">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244454990015</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244454990015</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244453974207</id>
+    <published>2021-01-05T17:51:10-05:00</published>
+    <updated>2021-01-05T17:51:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3265-61"/>
+    <title>Y3265-61</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3265-61_sm.jpg?v=1609887101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3265-61">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244453974207</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244453974207</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244452499647</id>
+    <published>2021-01-05T17:50:03-05:00</published>
+    <updated>2021-01-05T17:50:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3264-105"/>
+    <title>Y3264-106</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3264-106_sm.jpg?v=1609887046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3264-105">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244452499647</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244452499647</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244451090623</id>
+    <published>2021-01-05T17:49:07-05:00</published>
+    <updated>2021-01-05T17:49:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3264-101"/>
+    <title>Y3264-101</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3264-101_sm.jpg?v=1609886978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3264-101">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244451090623</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244451090623</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244449681599</id>
+    <published>2021-01-05T17:48:14-05:00</published>
+    <updated>2021-01-05T17:48:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3264-62"/>
+    <title>Y3264-62</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3264-62_sm.jpg?v=1609886928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3264-62">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244449681599</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244449681599</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244449026239</id>
+    <published>2021-01-05T17:47:15-05:00</published>
+    <updated>2021-01-05T17:47:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3263-111"/>
+    <title>Y3263-111</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3263-111_sm.jpg?v=1609886869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3263-111">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244449026239</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244449026239</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244448010431</id>
+    <published>2021-01-05T17:46:28-05:00</published>
+    <updated>2021-01-05T17:46:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3263-103"/>
+    <title>Y3263-103</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3263-103_sm.jpg?v=1609886819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3263-103">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244448010431</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244448010431</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244447158463</id>
+    <published>2021-01-05T17:45:28-05:00</published>
+    <updated>2021-01-05T17:45:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3263-80"/>
+    <title>Y3263-80</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3263-80_sm.jpg?v=1609886769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3263-80">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244447158463</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244447158463</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244446372031</id>
+    <published>2021-01-05T17:44:29-05:00</published>
+    <updated>2021-01-05T17:44:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3262-100"/>
+    <title>Y3262-100</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3262-100_sm.jpg?v=1609886700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3262-100">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244446372031</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244446372031</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244443652287</id>
+    <published>2021-01-05T17:41:11-05:00</published>
+    <updated>2021-01-05T17:41:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3262-15"/>
+    <title>Y3262-15</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3262-15_sm.jpg?v=1609886650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3262-15">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244443652287</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244443652287</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244324835519</id>
+    <published>2021-01-05T16:49:42-05:00</published>
+    <updated>2021-01-05T16:49:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3262-2"/>
+    <title>Y3262-2</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3262-2_sm.jpg?v=1609883469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3262-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244324835519</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244324835519</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244316676287</id>
+    <published>2021-01-05T16:47:53-05:00</published>
+    <updated>2021-01-05T16:47:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3261-103"/>
+    <title>Y3261-103</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3261-103_sm.jpg?v=1609883296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3261-103">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244316676287</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244316676287</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244315300031</id>
+    <published>2021-01-05T16:46:51-05:00</published>
+    <updated>2021-01-05T16:46:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3261-61"/>
+    <title>Y3261-61</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3261-61_sm.jpg?v=1609883252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            9.95 - 136.32
+            <a href="https://quiltex.ca/products/y3261-61">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244315300031</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">136.32</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244315300031</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244313039039</id>
+    <published>2021-01-05T16:45:44-05:00</published>
+    <updated>2021-01-05T16:45:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3260-110"/>
+    <title>Y3260-110D</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3260-110_sm.jpg?v=1609883178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            10.50 - 143.85
+            <a href="https://quiltex.ca/products/y3260-110">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244313039039</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">143.85</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244313039039</id>
+      <title>.</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244311040191</id>
+    <published>2021-01-05T16:44:48-05:00</published>
+    <updated>2021-01-05T16:44:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3260-103"/>
+    <title>Y3260-103D</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3260-103_sm.jpg?v=1609883125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            10.50 - 143.85
+            <a href="https://quiltex.ca/products/y3260-103">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244311040191</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">143.85</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244311040191</id>
+      <title>.</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244309041343</id>
+    <published>2021-01-05T16:43:27-05:00</published>
+    <updated>2021-01-05T16:43:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3259-60-61"/>
+    <title>Y3260-61D</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3260-61_sm.jpg?v=1609883065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            10.50 - 143.85
+            <a href="https://quiltex.ca/products/y3259-60-61">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244309041343</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">143.85</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244309041343</id>
+      <title>.</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6244304715967</id>
+    <published>2021-01-05T16:40:35-05:00</published>
+    <updated>2021-01-05T16:40:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/y3259-55-panel"/>
+    <title>Y3259-55 Panel</title>
+    <s:type>Enchanted Woodland</s:type>
+    <s:vendor>Clothworks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/y3259-55_sm.jpg?v=1609882931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clothworks<br>
+        <strong>Type: </strong>Enchanted Woodland<br>
+        <strong>Price: </strong>
+            10.50 - 143.85
+            <a href="https://quiltex.ca/products/y3259-55-panel">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery JUL/AUG<span data-mce-fragment="1"> </span>2021</strong></span></p>
+<p>Enchanted Woodland by Diane Neukirch for Clothworks<span> </span></p>
+<p>100% Cotton</p>
+<p>44/45" Wide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244304715967</id>
+      <title>13.7m</title>
+      <s:price currency="CAD">143.85</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6244304715967</id>
+      <title>.</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/lewis-irene-on-sale.atom"/>
+  <title>Quiltex</title>
+  <updated>2019-09-04T21:22:47-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/1721017204791</id>
+    <published>2019-09-04T21:22:47-04:00</published>
+    <updated>2019-09-04T21:22:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/c33-3"/>
+    <title>C33.3</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/c33.3.png?v=1567646580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            3.95 - 39.50
+            <a href="https://quiltex.ca/products/c33-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Christmas Panels </span>by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721017204791</id>
+      <title>10m</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721017204791</id>
+      <title>.</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1721016451127</id>
+    <published>2019-09-04T21:22:23-04:00</published>
+    <updated>2019-09-04T21:22:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/c33-2"/>
+    <title>C33.2</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/c33.2.png?v=1567646554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            3.95 - 39.50
+            <a href="https://quiltex.ca/products/c33-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Christmas Panels </span>by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721016451127</id>
+      <title>10m</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721016451127</id>
+      <title>.</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1721015795767</id>
+    <published>2019-09-04T21:21:31-04:00</published>
+    <updated>2019-09-04T21:21:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/c33-1"/>
+    <title>C33.1</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/c33.1.png?v=1567646501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            3.95 - 39.50
+            <a href="https://quiltex.ca/products/c33-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Christmas Panels </span>by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721015795767</id>
+      <title>10m</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721015795767</id>
+      <title>.</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1721014845495</id>
+    <published>2019-09-04T21:18:21-04:00</published>
+    <updated>2019-09-04T21:18:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/c31-1"/>
+    <title>C31.1</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/C31.1_1_-1.png?v=1567646316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            3.95 - 39.50
+            <a href="https://quiltex.ca/products/c31-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Christmas Panels </span>by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721014845495</id>
+      <title>10m</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721014845495</id>
+      <title>.</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1721014779959</id>
+    <published>2019-09-04T21:17:57-04:00</published>
+    <updated>2019-09-04T21:17:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/c25-3"/>
+    <title>C25.3</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/C25.3-blue-REVISED-01.jpg?v=1567646287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            3.95 - 39.50
+            <a href="https://quiltex.ca/products/c25-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Christmas Panels </span>by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721014779959</id>
+      <title>10m</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721014779959</id>
+      <title>.</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1721012092983</id>
+    <published>2019-09-04T21:13:35-04:00</published>
+    <updated>2019-09-04T21:13:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/c22-1"/>
+    <title>C22.1</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/c22.1.png?v=1567646059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            3.95 - 39.50
+            <a href="https://quiltex.ca/products/c22-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Christmas Panels </span>by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721012092983</id>
+      <title>10m</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721012092983</id>
+      <title>.</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1721007964215</id>
+    <published>2019-09-04T21:03:19-04:00</published>
+    <updated>2019-09-04T21:03:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/a228-3"/>
+    <title>A228.3</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/A228.3.jpg?v=1570499139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            4.95 - 49.50
+            <a href="https://quiltex.ca/products/a228-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Farley Mount </span>by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721007964215</id>
+      <title>10m</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721007964215</id>
+      <title>.</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1721007734839</id>
+    <published>2019-09-04T21:02:36-04:00</published>
+    <updated>2019-09-04T21:02:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/a228-2"/>
+    <title>A228.2</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/A228.2.jpg?v=1570499097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            4.95 - 49.50
+            <a href="https://quiltex.ca/products/a228-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Farley Mount </span>by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721007734839</id>
+      <title>10m</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721007734839</id>
+      <title>.</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1721007505463</id>
+    <published>2019-09-04T21:02:00-04:00</published>
+    <updated>2019-09-04T21:02:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/a228-1"/>
+    <title>A228.1</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/A228.1_1.jpg?v=1570499058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            4.95 - 49.50
+            <a href="https://quiltex.ca/products/a228-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Farley Mount </span>by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721007505463</id>
+      <title>10m</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1721007505463</id>
+      <title>.</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1719585112119</id>
+    <published>2019-09-03T22:20:12-04:00</published>
+    <updated>2019-09-03T22:20:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/sm20-2"/>
+    <title>SM20.2</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/SM20.2.jpg?v=1579627334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            4.95 - 49.50
+            <a href="https://quiltex.ca/products/sm20-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span mce-data-marked="1">Small Things ... By The Sea</span> by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1719585112119</id>
+      <title>10m</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1719585112119</id>
+      <title>.</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1717790343223</id>
+    <published>2019-09-02T22:48:24-04:00</published>
+    <updated>2019-09-02T22:48:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/a365-2"/>
+    <title>A365.2</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/A365.2.jpg?v=1567478927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            4.95 - 49.50
+            <a href="https://quiltex.ca/products/a365-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From Old Harry Rocks by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1717790343223</id>
+      <title>10m</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1717790343223</id>
+      <title>.</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1717680504887</id>
+    <published>2019-09-02T20:55:27-04:00</published>
+    <updated>2019-09-02T20:55:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/a385-3"/>
+    <title>A385.3</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/A385.3.jpg?v=1579550121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            4.95 - 49.50
+            <a href="https://quiltex.ca/products/a385-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Maya by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1717680504887</id>
+      <title>10m</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1717680504887</id>
+      <title>.</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1717680013367</id>
+    <published>2019-09-02T20:54:53-04:00</published>
+    <updated>2019-09-02T20:54:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/a385-2"/>
+    <title>A385.2</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/A385.2.jpg?v=1579550098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            4.95 - 49.50
+            <a href="https://quiltex.ca/products/a385-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Maya by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1717680013367</id>
+      <title>10m</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1717680013367</id>
+      <title>.</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1416024195127</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/52-2"/>
+    <title>C52.2</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/52.2.png?v=1579626968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            3.95 - 39.50
+            <a href="https://quiltex.ca/products/52-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Christmas Glow by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<meta charset="utf-8">
+<p><span>45" Wide</span></p>
+<p><span>Glow-In-The-Dark</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1416024195127</id>
+      <title>10m</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1416024195127</id>
+      <title>.</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1416010825783</id>
+    <published>2018-04-21T16:54:30-04:00</published>
+    <updated>2018-04-21T16:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/49-1"/>
+    <title>C49.1</title>
+    <s:type>Lewis &amp; Irene - On Sale</s:type>
+    <s:vendor>Lewis &amp; Irene</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/Greenshot_panel_49.1.png?v=1579626899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lewis &amp; Irene<br>
+        <strong>Type: </strong>Lewis &amp; Irene - On Sale<br>
+        <strong>Price: </strong>
+            3.95 - 39.50
+            <a href="https://quiltex.ca/products/49-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Christmas Glow by Lewis &amp; Irene</p>
+<p>100% Cotton</p>
+<meta charset="utf-8">
+<p><span>45" Wide</span></p>
+<p><span>Glow-In-The-Dark</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1416010825783</id>
+      <title>10m</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1416010825783</id>
+      <title>.</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+</feed>

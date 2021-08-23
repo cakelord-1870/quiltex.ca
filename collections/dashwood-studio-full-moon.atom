@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/dashwood-studio-full-moon.atom"/>
+  <title>Quiltex</title>
+  <updated>2021-07-07T15:02:03-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/6193050058943</id>
+    <published>2021-07-07T15:02:03-04:00</published>
+    <updated>2021-07-07T15:02:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/moon-1880"/>
+    <title>MOON 1880</title>
+    <s:type>Full Moon</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/MOON1880.jpg?v=1608243510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Full Moon<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>ETA August</p>
+<p><span style="text-decoration: underline;"><strong>OVERSOLD - Waiting List is now Closed</strong></span></p>
+<p>Full Moon by Helen Black for Dashwood Studio <span> </span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6193050058943</id>
+      <title>.</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6193048060095</id>
+    <published>2021-07-07T15:01:51-04:00</published>
+    <updated>2021-07-07T15:01:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/moon-1879"/>
+    <title>MOON 1879</title>
+    <s:type>Full Moon</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/MOON1879.jpg?v=1608242138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Full Moon<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>ETA August</p>
+<p><span style="text-decoration: underline;"><strong>OVERSOLD - Waiting List is now Closed</strong></span></p>
+<p>Full Moon by Helen Black for Dashwood Studio <span> </span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6193048060095</id>
+      <title>.</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6193041342655</id>
+    <published>2021-07-07T15:01:38-04:00</published>
+    <updated>2021-07-07T15:01:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/moon-1877"/>
+    <title>MOON 1877</title>
+    <s:type>Full Moon</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/MOON1877.jpg?v=1608241925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Full Moon<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>ETA August</p>
+<p><span style="text-decoration: underline;"><strong>OVERSOLD - Waiting List is now Closed</strong></span></p>
+<p>Full Moon by Helen Black for Dashwood Studio <span> </span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6193041342655</id>
+      <title>.</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6193032691903</id>
+    <published>2021-07-07T15:01:19-04:00</published>
+    <updated>2021-07-07T15:01:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/moon-1876"/>
+    <title>MOON 1876</title>
+    <s:type>Full Moon</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/MOON1876.jpg?v=1608241778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Full Moon<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>ETA August</p>
+<p><span style="text-decoration: underline;"><strong>OVERSOLD - Waiting List is now Closed</strong></span></p>
+<p>Full Moon by Helen Black for Dashwood Studio <span> </span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6193032691903</id>
+      <title>.</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6193103175871</id>
+    <published>2020-12-17T17:21:59-05:00</published>
+    <updated>2020-12-17T17:21:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/moon-1883"/>
+    <title>MOON 1883</title>
+    <s:type>Full Moon</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/MOON1883.jpg?v=1608243787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Full Moon<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>ETA August</p>
+<p><span style="text-decoration: underline;"><strong>OVERSOLD - Waiting List is now Closed</strong></span></p>
+<p>Full Moon by Helen Black for Dashwood Studio <span> </span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6193103175871</id>
+      <title>.</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6193089609919</id>
+    <published>2020-12-17T17:20:34-05:00</published>
+    <updated>2020-12-17T17:20:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/moon-1882"/>
+    <title>MOON 1882</title>
+    <s:type>Full Moon</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/MOON1882.jpg?v=1608243695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Full Moon<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>ETA August</p>
+<p><span style="text-decoration: underline;"><strong>OVERSOLD - Waiting List is now Closed</strong></span></p>
+<p>Full Moon by Helen Black for Dashwood Studio <span> </span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6193089609919</id>
+      <title>.</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6193079517375</id>
+    <published>2020-12-17T17:19:10-05:00</published>
+    <updated>2020-12-17T17:19:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/moon-1881"/>
+    <title>MOON 1881</title>
+    <s:type>Full Moon</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/MOON1881.jpg?v=1608243614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Full Moon<br>
+        <strong>Price: </strong>
+            97.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>ETA August</p>
+<p><span style="text-decoration: underline;"><strong>OVERSOLD - Waiting List is now Closed</strong></span></p>
+<p>Full Moon by Helen Black for Dashwood Studio <span> </span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6193079517375</id>
+      <title>.</title>
+      <s:price currency="CAD">97.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6193046192319</id>
+    <published>2020-12-17T16:52:56-05:00</published>
+    <updated>2020-12-17T16:52:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/moon-1878"/>
+    <title>MOON 1878</title>
+    <s:type>Full Moon</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/MOON1878_39a820b4-11fc-412d-8e7a-73795bf3d271.jpg?v=1608242043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Full Moon<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>ETA August</p>
+<p><span style="text-decoration: underline;"><strong>OVERSOLD - Waiting List is now Closed</strong></span></p>
+<p>Full Moon by Helen Black for Dashwood Studio <span> </span></p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6193046192319</id>
+      <title>.</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+</feed>

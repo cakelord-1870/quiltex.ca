@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/dutch-heritage-tone-on-tone.atom"/>
+  <title>Quiltex</title>
+  <updated>2021-06-22T11:21:41-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/6756874813631</id>
+    <published>2021-06-22T11:21:41-04:00</published>
+    <updated>2021-06-22T11:21:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-olive"/>
+    <title>DHER1021-Olive</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-OLIVE.jpg?v=1624375314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-olive">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756874813631</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756874813631</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6756869374143</id>
+    <published>2021-06-22T11:19:30-04:00</published>
+    <updated>2021-06-22T11:19:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-teal"/>
+    <title>DHER1021-Dk Teal</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-DK.TEAL.jpg?v=1624375181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-teal">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756869374143</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756869374143</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6756865802431</id>
+    <published>2021-06-22T11:18:05-04:00</published>
+    <updated>2021-06-22T11:18:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-dk-red"/>
+    <title>DHER1021-Dk Red</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-DK.RED.jpg?v=1624375095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-dk-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756865802431</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6756865802431</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6256823861439</id>
+    <published>2021-01-11T18:36:26-05:00</published>
+    <updated>2021-01-11T18:36:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-teadye"/>
+    <title>DHER1021-Teadye</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-TEADYE.jpg?v=1610408198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-teadye">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256823861439</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256823861439</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6256821534911</id>
+    <published>2021-01-11T18:35:45-05:00</published>
+    <updated>2021-01-11T18:35:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-sage"/>
+    <title>DHER1021-Sage</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-SAGE.jpg?v=1610408172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-sage">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256821534911</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256821534911</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6256819994815</id>
+    <published>2021-01-11T18:35:04-05:00</published>
+    <updated>2021-01-11T18:35:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-red"/>
+    <title>DHER1021-Red</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-RED.jpg?v=1610408133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-red">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256819994815</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256819994815</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6256819372223</id>
+    <published>2021-01-11T18:34:26-05:00</published>
+    <updated>2021-01-11T18:34:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-purple"/>
+    <title>DHER1021-Purple</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-PURPLE.jpg?v=1610408093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-purple">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256819372223</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256819372223</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6256808984767</id>
+    <published>2021-01-11T18:30:43-05:00</published>
+    <updated>2021-01-11T18:30:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-pink"/>
+    <title>DHER1021-Pink</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-PINK.jpg?v=1610408029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-pink">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256808984767</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256808984767</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6256807968959</id>
+    <published>2021-01-11T18:30:20-05:00</published>
+    <updated>2021-01-11T18:30:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-mustard"/>
+    <title>DHER1021-Mustard</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-MUSTARD.jpg?v=1610408005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-mustard">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256807968959</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256807968959</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6256806756543</id>
+    <published>2021-01-11T18:29:59-05:00</published>
+    <updated>2021-01-11T18:29:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-lt-blue"/>
+    <title>DHER1021-Lt Blue</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-LT.BLUE.jpg?v=1610407810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-lt-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256806756543</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256806756543</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6256805707967</id>
+    <published>2021-01-11T18:29:35-05:00</published>
+    <updated>2021-01-11T18:29:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-dk-blue"/>
+    <title>DHER1021-Dk Blue</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-DK.BLUE.jpg?v=1610407788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-dk-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256805707967</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256805707967</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6256804921535</id>
+    <published>2021-01-11T18:29:13-05:00</published>
+    <updated>2021-01-11T18:29:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-cream"/>
+    <title>DHER1021-Cream</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-CREAM.jpg?v=1610407766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256804921535</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256804921535</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/6256801743039</id>
+    <published>2021-01-11T18:28:38-05:00</published>
+    <updated>2021-01-11T18:28:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dher1021-aubergine"/>
+    <title>DHER1021-Aubergine</title>
+    <s:type>Tone On Tone</s:type>
+    <s:vendor>Dutch Heritage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/DHER1021-AUBERGINE.jpg?v=1610407925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dutch Heritage<br>
+        <strong>Type: </strong>Tone On Tone<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/dher1021-aubergine">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>PRE-ORDER NOW!  Estimated delivery MAR/APR 2021</strong></span></p>
+<p>by Dutch Heritage</p>
+<p>100% Cotton</p>
+<p>44/45” Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256801743039</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/6256801743039</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+</feed>

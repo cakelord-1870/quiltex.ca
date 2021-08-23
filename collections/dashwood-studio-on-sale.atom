@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/dashwood-studio-on-sale.atom"/>
+  <title>Quiltex</title>
+  <updated>2021-06-15T11:44:57-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/1703315537975</id>
+    <published>2021-06-15T11:44:57-04:00</published>
+    <updated>2021-06-15T11:44:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/chalk-1355"/>
+    <title>CHALK 1355</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/CHALK_1355_CL.jpg?v=1566697953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/chalk-1355">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chalk Hill Cotton/Linen by Dashwood Studio</p>
+<p>45% Cotton / 55% Linen</p>
+<p>57"/58" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703315537975</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku/>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703315537975</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4682543267929</id>
+    <published>2020-11-04T18:39:38-05:00</published>
+    <updated>2020-11-04T18:39:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/dove-1361r"/>
+    <title>DOVE 1361 Rayon</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/dove1361R.jpg?v=1594656311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            6.95 - 104.25
+            <a href="https://quiltex.ca/products/dove-1361r">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Dovestone by Feena Brooks<span> </span>for Dashwood Studio</p>
+<p>100% Rayon</p>
+<p>57" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4682543267929</id>
+      <title>15m</title>
+      <s:price currency="CAD">104.25</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4682543267929</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1703296270391</id>
+    <published>2020-09-22T10:14:53-04:00</published>
+    <updated>2020-09-22T10:14:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/clnest-1412"/>
+    <title>CLNEST 1412 Cotton/Linen</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/NEST1412_d5ce34b0-a8e8-45df-859d-3ac6241e47a1.jpg?v=1566696214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/clnest-1412">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nesting Birds by Jo Cocker for Dashwood Studio</p>
+<p>85% Cotton / 15% Linen</p>
+<p>57"/58" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703296270391</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703296270391</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4521132720217</id>
+    <published>2020-03-24T15:36:14-04:00</published>
+    <updated>2020-03-24T15:36:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/belle-1577"/>
+    <title>BELLE 1577</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/1024x1024.jpg?v=1585079633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            6.95 - 69.50
+            <a href="https://quiltex.ca/products/belle-1577">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Epoque by Ali Brookes for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4521132720217</id>
+      <title>10m</title>
+      <s:price currency="CAD">69.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4521132720217</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4454497550425</id>
+    <published>2020-02-01T21:50:10-05:00</published>
+    <updated>2020-02-01T21:50:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/cele-1615"/>
+    <title>CELE 1615</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/CELE1615.jpg?v=1580611826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            5.95 - 59.50
+            <a href="https://quiltex.ca/products/cele-1615">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>AVAILABLE NOW! </strong></p>
+<p>Celeste by Ali Brookes for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4454497550425</id>
+      <title>10m</title>
+      <s:price currency="CAD">59.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4454497550425</id>
+      <title>.</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206336311351</id>
+    <published>2019-10-09T20:02:11-04:00</published>
+    <updated>2019-10-09T20:02:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1600-candy"/>
+    <title>GBQ1600 Candy</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1600_CANDY-1.jpg?v=1570665756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1600-candy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206336311351</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206336311351</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206335164471</id>
+    <published>2019-10-09T20:00:29-04:00</published>
+    <updated>2019-10-09T20:00:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1601-rose"/>
+    <title>GBQ1601 Rose</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1601_ROSE-1.jpg?v=1570665666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1601-rose">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206335164471</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206335164471</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206334378039</id>
+    <published>2019-10-09T19:59:24-04:00</published>
+    <updated>2019-10-09T19:59:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1605-peach"/>
+    <title>GBQ1605 Peach</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1605_PEACH-1.jpg?v=1570665616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1605-peach">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206334378039</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206334378039</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206333820983</id>
+    <published>2019-10-09T19:58:35-04:00</published>
+    <updated>2019-10-09T19:58:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1606-melon"/>
+    <title>GBQ1606 Melon</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1606_MELON-1.jpg?v=1570665547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1606-melon">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206333820983</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206333820983</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206333034551</id>
+    <published>2019-10-09T19:57:40-04:00</published>
+    <updated>2019-10-09T19:57:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1607-sunshine"/>
+    <title>GBQ1607 Sunshine</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1607_SUNSHINE-1.jpg?v=1570665502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1607-sunshine">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206333034551</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206333034551</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206331428919</id>
+    <published>2019-10-09T19:55:49-04:00</published>
+    <updated>2019-10-09T19:55:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1606-orange"/>
+    <title>GBQ1606 Orange</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1606_ORANGE-1.jpg?v=1570665399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1606-orange">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206331428919</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206331428919</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206330970167</id>
+    <published>2019-10-09T19:54:49-04:00</published>
+    <updated>2019-10-09T19:54:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1604-chartreuse"/>
+    <title>GBQ1604 Chartreuse</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1604_CHARTREUSE-1.jpg?v=1570665335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1604-chartreuse">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206330970167</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206330970167</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206330150967</id>
+    <published>2019-10-09T19:53:53-04:00</published>
+    <updated>2019-10-09T19:53:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1601-azure"/>
+    <title>GBQ1601 Azure</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1601_AZURE-1.jpg?v=1570665273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1601-azure">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206330150967</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206330150967</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206329266231</id>
+    <published>2019-10-09T19:53:01-04:00</published>
+    <updated>2019-10-09T19:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1607lilac"/>
+    <title>GBQ1607 Lilac</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1607_LILAC_-1.jpg?v=1570665210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1607lilac">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206329266231</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206329266231</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206328774711</id>
+    <published>2019-10-09T19:52:07-04:00</published>
+    <updated>2019-10-09T19:52:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1601-violet"/>
+    <title>GBQ1601 Violet</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1601_VIOLET-1.jpg?v=1570665167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1601-violet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206328774711</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206328774711</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206327857207</id>
+    <published>2019-10-09T19:51:01-04:00</published>
+    <updated>2019-10-09T19:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1605-midnight"/>
+    <title>GBQ1605 Midnight</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1605_MIDNIGHT-1.jpg?v=1570665112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1605-midnight">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206327857207</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206327857207</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206326120503</id>
+    <published>2019-10-09T19:49:15-04:00</published>
+    <updated>2019-10-09T19:49:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1607-sky"/>
+    <title>GBQ1607 Sky</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1607_SKY-1.jpg?v=1570664994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1607-sky">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206326120503</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206326120503</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/4206325039159</id>
+    <published>2019-10-09T19:48:10-04:00</published>
+    <updated>2019-10-09T19:48:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/gbq1604-powder-blue"/>
+    <title>GBQ1604 Powder Blue</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/GBQ_1604_POWDER_BLUE-1.jpg?v=1570664938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            7.95 - 79.50
+            <a href="https://quiltex.ca/products/gbq1604-powder-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GBQ Back To Basics by Sarah Ashford Studio for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206325039159</id>
+      <title>10m</title>
+      <s:price currency="CAD">79.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/4206325039159</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1703406108727</id>
+    <published>2019-08-24T23:21:11-04:00</published>
+    <updated>2019-08-24T23:21:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/aura-1276"/>
+    <title>AURA 1276</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/AURA_1276_6b2c577a-7288-407c-be01-4c156ccd07b7.png?v=1566760592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            5.95 - 59.50
+            <a href="https://quiltex.ca/products/aura-1276">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Autumn Rain by Jilly P for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703406108727</id>
+      <title>10m</title>
+      <s:price currency="CAD">59.50</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703406108727</id>
+      <title>.</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku/>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1703296008247</id>
+    <published>2019-08-24T21:22:45-04:00</published>
+    <updated>2019-08-24T21:22:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/clnest-1411"/>
+    <title>CLNEST 1411 Cotton/Linen</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/NEST1411_a01194a5-e723-4c95-a8f0-e6925809184b.jpg?v=1566696183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/clnest-1411">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nesting Birds by Jo Cocker for Dashwood Studio</p>
+<p>85% Cotton / 15% Linen</p>
+<p>57"/58" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703296008247</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703296008247</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1703293485111</id>
+    <published>2019-08-24T21:20:24-04:00</published>
+    <updated>2019-08-24T21:20:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/clnest-1410"/>
+    <title>CLNEST 1410 Cotton/Linen</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/NEST1410_eec09349-1318-4f78-907f-404fc64cee38.jpg?v=1566696024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            9.95 - 99.50
+            <a href="https://quiltex.ca/products/clnest-1410">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nesting Birds by Jo Cocker for Dashwood Studio</p>
+<p>85% Cotton / 15% Linen</p>
+<p>57"/58" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703293485111</id>
+      <title>10m</title>
+      <s:price currency="CAD">99.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703293485111</id>
+      <title>.</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1703239942199</id>
+    <published>2019-08-24T20:38:06-04:00</published>
+    <updated>2019-08-24T20:38:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/emi-1408"/>
+    <title>EMI 1408</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/EMI_1408.jpeg?v=1566693499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            6.95 - 69.50
+            <a href="https://quiltex.ca/products/emi-1408">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Emi And the Bird by Jilly P for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703239942199</id>
+      <title>10m</title>
+      <s:price currency="CAD">69.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703239942199</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1703238762551</id>
+    <published>2019-08-24T20:37:05-04:00</published>
+    <updated>2019-08-24T20:37:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/emi-1406"/>
+    <title>EMI 1406</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/EMI_1406.jpeg?v=1566693443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            6.95 - 69.50
+            <a href="https://quiltex.ca/products/emi-1406">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Emi And the Bird by Jilly P for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703238762551</id>
+      <title>10m</title>
+      <s:price currency="CAD">69.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703238762551</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1703238467639</id>
+    <published>2019-08-24T20:36:34-04:00</published>
+    <updated>2019-08-24T20:36:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/emi-1405"/>
+    <title>EMI 1405</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/EMI_1405.jpeg?v=1566693408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            6.95 - 69.50
+            <a href="https://quiltex.ca/products/emi-1405">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Emi And the Bird by Jilly P for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703238467639</id>
+      <title>10m</title>
+      <s:price currency="CAD">69.50</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703238467639</id>
+      <title>.</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku/>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1703030947895</id>
+    <published>2019-08-24T17:26:19-04:00</published>
+    <updated>2019-08-24T17:26:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/roar-1437"/>
+    <title>ROAR 1437</title>
+    <s:type>Dashwood Studio - ON SALE</s:type>
+    <s:vendor>Dashwood Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/roar_1437_sm.png?v=1566681987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dashwood Studio<br>
+        <strong>Type: </strong>Dashwood Studio - ON SALE<br>
+        <strong>Price: </strong>
+            5.95 - 59.50
+            <a href="https://quiltex.ca/products/roar-1437">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Roaring Good Yarn by Rosalin Maroney for Dashwood Studio</p>
+<p>100% Cotton</p>
+<p>44"/45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703030947895</id>
+      <title>10m</title>
+      <s:price currency="CAD">59.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1703030947895</id>
+      <title>.</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2040</s:grams>
+    </s:variant>
+  </entry>
+</feed>

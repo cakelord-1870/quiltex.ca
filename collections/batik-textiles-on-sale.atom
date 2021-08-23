@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://quiltex.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://quiltex.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://quiltex.ca/collections/batik-textiles-on-sale.atom"/>
+  <title>Quiltex</title>
+  <updated>2021-05-28T16:05:35-04:00</updated>
+  <author>
+    <name>Quiltex</name>
+  </author>
+  <entry>
+    <id>https://quiltex.ca/products/1432509055031</id>
+    <published>2021-05-28T16:05:35-04:00</published>
+    <updated>2021-05-28T16:05:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-3925"/>
+    <title>3926</title>
+    <s:type>Water&apos;s Edge</s:type>
+    <s:vendor>Batik Textiles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/3926.jpg?v=1589059530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Batik Textiles<br>
+        <strong>Type: </strong>Water&#39;s Edge<br>
+        <strong>Price: </strong>
+            7.95 - 103.35
+            <a href="https://quiltex.ca/products/copy-of-3925">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Water's Edge by Batik Textiles </p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bt onsale</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/1432509055031</id>
+      <title>13m</title>
+      <s:price currency="CAD">103.35</s:price>
+      <s:sku/>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1432509055031</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku/>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://quiltex.ca/products/1432490999863</id>
+    <published>2021-05-28T16:05:07-04:00</published>
+    <updated>2021-05-28T16:05:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://quiltex.ca/products/copy-of-4033"/>
+    <title>4034</title>
+    <s:type>Down Under Collection</s:type>
+    <s:vendor>Batik Textiles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0009/2091/1927/products/4034.jpg?v=1589059664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Batik Textiles<br>
+        <strong>Type: </strong>Down Under Collection<br>
+        <strong>Price: </strong>
+            7.95 - 103.35
+            <a href="https://quiltex.ca/products/copy-of-4033">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Down Under Collection by Batik Textiles </p>
+<p>100% Cotton</p>
+<p>45" Wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bt onsale</s:tag>
+    <s:variant>
+      <id>https://quiltex.ca/products/1432490999863</id>
+      <title>13m</title>
+      <s:price currency="CAD">103.35</s:price>
+      <s:sku/>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://quiltex.ca/products/1432490999863</id>
+      <title>.</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku/>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>
